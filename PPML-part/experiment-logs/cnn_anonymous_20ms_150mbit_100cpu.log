@@ -1,0 +1,1511 @@
+
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353654 bytes
+Received 943122 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353634 bytes
+Received 943243 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353664 bytes
+Received 943325 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353645 bytes
+Received 943409 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353690 bytes
+Received 943229 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353759 bytes
+Received 943303 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353705 bytes
+Received 943100 bytes
+Received 943160 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648403 bytes
+Received 648450 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471653 bytes
+Sent 471681 bytes
+Received 648509 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471631 bytes
+Received 648474 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471624 bytes
+Received 648423 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471592 bytes
+Received 648429 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471631 bytes
+Received 943122 bytes
+Received 943161 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648436 bytes
+Received 766320 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471602 bytes
+Sent 471550 bytes
+Received 766381 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471661 bytes
+Received 766355 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471620 bytes
+Received 766381 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471631 bytes
+Received 766297 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471691 bytes
+Received 58964 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6784 ms
+Socket 4: Received 16761906 bytes, Sent 9432157 bytes
+Total: 26194063 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353769 bytes
+Received 943229 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353776 bytes
+Received 943205 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353704 bytes
+Received 943164 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353674 bytes
+Received 943208 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353690 bytes
+Received 943250 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353721 bytes
+Received 943219 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353711 bytes
+Received 943187 bytes
+Received 943125 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648437 bytes
+Received 648420 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471628 bytes
+Sent 471566 bytes
+Received 648537 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471657 bytes
+Received 648373 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471619 bytes
+Received 648447 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471715 bytes
+Received 648384 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471627 bytes
+Received 943245 bytes
+Received 943264 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648445 bytes
+Received 766389 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471618 bytes
+Sent 471575 bytes
+Received 766408 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471630 bytes
+Received 766337 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471623 bytes
+Received 766230 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471643 bytes
+Received 766244 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471684 bytes
+Received 58957 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6950 ms
+Socket 4: Received 16761571 bytes, Sent 9432512 bytes
+Total: 26194083 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353737 bytes
+Received 943109 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353681 bytes
+Received 943205 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353738 bytes
+Received 943201 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353639 bytes
+Received 943180 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353671 bytes
+Received 943306 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353718 bytes
+Received 943159 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353727 bytes
+Received 943100 bytes
+Received 943251 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648421 bytes
+Received 648383 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471623 bytes
+Sent 471643 bytes
+Received 648405 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471605 bytes
+Received 648407 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471607 bytes
+Received 648378 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471574 bytes
+Received 648505 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471647 bytes
+Received 943080 bytes
+Received 943162 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648483 bytes
+Received 766375 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471648 bytes
+Sent 471647 bytes
+Received 766242 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471650 bytes
+Received 766287 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471583 bytes
+Received 766370 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471534 bytes
+Received 766360 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471669 bytes
+Received 58965 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 7277 ms
+Socket 4: Received 16761179 bytes, Sent 9432245 bytes
+Total: 26193424 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353654 bytes
+Received 943279 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353656 bytes
+Received 943192 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353671 bytes
+Received 943251 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353686 bytes
+Received 943254 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353802 bytes
+Received 943151 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353701 bytes
+Received 943241 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353672 bytes
+Received 943237 bytes
+Received 943164 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648499 bytes
+Received 648466 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471642 bytes
+Sent 471591 bytes
+Received 648452 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471586 bytes
+Received 648544 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471565 bytes
+Received 648576 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471682 bytes
+Received 648444 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471588 bytes
+Received 943244 bytes
+Received 943151 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648482 bytes
+Received 766370 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471582 bytes
+Sent 471610 bytes
+Received 766312 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471603 bytes
+Received 766460 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471587 bytes
+Received 766265 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471602 bytes
+Received 766422 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471594 bytes
+Received 58985 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6034 ms
+Socket 4: Received 16762209 bytes, Sent 9432055 bytes
+Total: 26194264 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353727 bytes
+Received 943208 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353784 bytes
+Received 943153 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353661 bytes
+Received 943111 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353654 bytes
+Received 943202 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353655 bytes
+Received 943138 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353737 bytes
+Received 943222 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353798 bytes
+Received 943319 bytes
+Received 943323 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648450 bytes
+Received 648446 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471603 bytes
+Sent 471583 bytes
+Received 648438 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471598 bytes
+Received 648396 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471704 bytes
+Received 648524 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471620 bytes
+Received 648474 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471613 bytes
+Received 943278 bytes
+Received 943235 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648404 bytes
+Received 766433 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471579 bytes
+Sent 471658 bytes
+Received 766282 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471592 bytes
+Received 766402 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471678 bytes
+Received 766271 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471639 bytes
+Received 766366 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471654 bytes
+Received 58931 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 7094 ms
+Socket 4: Received 16761901 bytes, Sent 9432391 bytes
+Total: 26194292 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353747 bytes
+Received 943208 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353716 bytes
+Received 943231 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353709 bytes
+Received 943251 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353762 bytes
+Received 943309 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353703 bytes
+Received 943213 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353696 bytes
+Received 943272 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353683 bytes
+Received 943154 bytes
+Received 943222 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648426 bytes
+Received 648485 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471623 bytes
+Sent 471566 bytes
+Received 648382 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471580 bytes
+Received 648594 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471621 bytes
+Received 648412 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471714 bytes
+Received 648362 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471607 bytes
+Received 943289 bytes
+Received 943057 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648519 bytes
+Received 766343 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471638 bytes
+Sent 471644 bytes
+Received 766242 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471623 bytes
+Received 766428 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471666 bytes
+Received 766447 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471556 bytes
+Received 766420 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471600 bytes
+Received 58991 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 7009 ms
+Socket 4: Received 16762061 bytes, Sent 9432399 bytes
+Total: 26194460 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353723 bytes
+Received 943171 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353749 bytes
+Received 943138 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353725 bytes
+Received 943298 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353663 bytes
+Received 943313 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353750 bytes
+Received 943196 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353737 bytes
+Received 943243 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353659 bytes
+Received 943187 bytes
+Received 943339 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648335 bytes
+Received 648562 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471518 bytes
+Sent 471633 bytes
+Received 648468 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471652 bytes
+Received 648482 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471664 bytes
+Received 648415 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471575 bytes
+Received 648424 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471701 bytes
+Received 943098 bytes
+Received 943239 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648398 bytes
+Received 766363 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471473 bytes
+Sent 471572 bytes
+Received 766353 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471595 bytes
+Received 766343 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471580 bytes
+Received 766326 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471674 bytes
+Received 766364 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471691 bytes
+Received 58974 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6356 ms
+Socket 4: Received 16762045 bytes, Sent 9432067 bytes
+Total: 26194112 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353681 bytes
+Received 943119 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353601 bytes
+Received 943076 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353750 bytes
+Received 943302 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353733 bytes
+Received 943058 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353647 bytes
+Received 943177 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353727 bytes
+Received 943279 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353778 bytes
+Received 943159 bytes
+Received 943216 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648481 bytes
+Received 648491 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471555 bytes
+Sent 471617 bytes
+Received 648357 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471673 bytes
+Received 648332 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471693 bytes
+Received 648308 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471595 bytes
+Received 648408 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471684 bytes
+Received 943066 bytes
+Received 943045 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648465 bytes
+Received 766331 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471573 bytes
+Sent 471664 bytes
+Received 766391 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471584 bytes
+Received 766388 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471659 bytes
+Received 766326 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471613 bytes
+Received 766401 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471619 bytes
+Received 58978 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6500 ms
+Socket 4: Received 16760957 bytes, Sent 9432392 bytes
+Total: 26193349 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353697 bytes
+Received 943217 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353683 bytes
+Received 943241 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353652 bytes
+Received 943216 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353674 bytes
+Received 943103 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353681 bytes
+Received 943147 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353717 bytes
+Received 943180 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353797 bytes
+Received 943234 bytes
+Received 943146 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648490 bytes
+Received 648471 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471591 bytes
+Sent 471567 bytes
+Received 648436 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471612 bytes
+Received 648484 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471591 bytes
+Received 648507 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471640 bytes
+Received 648424 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471645 bytes
+Received 943226 bytes
+Received 943224 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648479 bytes
+Received 766295 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471614 bytes
+Sent 471716 bytes
+Received 766474 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471579 bytes
+Received 766313 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471565 bytes
+Received 766403 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471642 bytes
+Received 766411 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471616 bytes
+Received 58953 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6858 ms
+Socket 4: Received 16761854 bytes, Sent 9432248 bytes
+Total: 26194102 bytes
+Server listening on port 8080
+/
+| Encryption parameters :
+|   scheme: CKKS
+|   poly_modulus_degree: 4096
+|   coeff_modulus size: 100 (50 + 50) bits
+\
+Received 131138 bytes
+Received 65611 bytes
+Number of slots: 2048
+========== init layer ================
+Read 432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353694 bytes
+Received 943240 bytes
+========== layer 1 ================
+=== block 0 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353689 bytes
+Received 943252 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353734 bytes
+Received 943284 bytes
+=== block 1 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353729 bytes
+Received 943234 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353736 bytes
+Received 943013 bytes
+=== block 2 ===
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 353675 bytes
+Received 943076 bytes
+Read 2304 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 353669 bytes
+Received 943068 bytes
+Received 943195 bytes
+========== layer 2 ================
+=== block 0 ===
+Read 4608 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648427 bytes
+Received 648419 bytes
+Read 9216 weights:
+Read 8192 weights:
+Read 512 weights:
+Read 32768 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471610 bytes
+Sent 471697 bytes
+Received 648544 bytes
+=== block 1 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471516 bytes
+Received 648480 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471662 bytes
+Received 648390 bytes
+=== block 2 ===
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471599 bytes
+Received 648434 bytes
+Read 9216 weights:
+Read 8192 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471572 bytes
+Received 943264 bytes
+Received 943061 bytes
+========== layer 3 ================
+=== block 0 ===
+Read 18432 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 648379 bytes
+Received 766313 bytes
+Read 36864 weights:
+Read 4096 weights:
+Read 2048 weights:
+Read 16384 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471612 bytes
+Sent 471576 bytes
+Received 766442 bytes
+=== block 1 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471523 bytes
+Received 766437 bytes
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471554 bytes
+Received 766267 bytes
+=== block 2 ===
+Read 36864 weights:
+Read 4096 weights:
+Enter relu_anonymous_interact
+Enter relu_anonymous_interact S
+Sent 471625 bytes
+Received 766326 bytes
+Read 36864 weights:
+Read 4096 weights:
+========== FC AVG ================
+Enter relu_anonymous_interact_add
+Enter relu_anonymous_interact_add S
+Sent 471536 bytes
+Received 58973 bytes
+Read 640 weights:
+Read 10 weights:
+Total execution time: 6851 ms
+Socket 4: Received 16761461 bytes, Sent 9431814 bytes
+Total: 26193275 bytes
